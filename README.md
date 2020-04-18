@@ -5,7 +5,7 @@ This is a CRUD. CRUD are editable table, where you can CReate, Update and Delete
 Here's the two pages of the application:
 
 ![Screenshot 1](https://github.com/lucpena/Python-CRUD/blob/master/employeeCRUD/screenshots/screen01.png)
-_Here you can add or edit a member._
+_Here you can add or edit a member. "Members List" takes you to the next page._
 
 ![Screenshot 2](https://github.com/lucpena/Python-CRUD/blob/master/employeeCRUD/screenshots/screen02.png)
 _Here you can see all the members, and click the two options. 
