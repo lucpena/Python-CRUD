@@ -1,6 +1,6 @@
 # CRUD in Python! 
 
-This is a CRUD. CRUD are editable table, where you can CReate, Update and Delete. 
+This is a CRUD. CRUDs are editable tables, where you can CReate, Update and Delete. 
 
 Here's the two pages of the application:
 
