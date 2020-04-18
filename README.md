@@ -13,6 +13,10 @@ _Here you can see all the members, and click the two options.
 "Delete" option just deletes a member and show the new list.
 "Add new" takes you to the first page._
 
+### Here are the tables
+![Screenshot 3](https://github.com/lucpena/Python-CRUD/blob/master/employeeCRUD/screenshots/screen03.png)
+
+![Screenshot 4](https://github.com/lucpena/Python-CRUD/blob/master/employeeCRUD/screenshots/screen04.png)
 
 # Technologies! 💻
 
