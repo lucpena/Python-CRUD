@@ -1,6 +1,6 @@
 # CRUD in Python! 
 
-A full functional CRUS made in Python with Django
+A full functional CRUD made in Python with Django
 
 Here's the two pages of the application:
 
