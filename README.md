@@ -1,6 +1,6 @@
 # CRUD in Python! 
 
-This is a CRUD. CRUDs are editable tables, where you can CReate, Update and Delete. 
+A full functional CRUS made in Python with Django
 
 Here's the two pages of the application:
 
